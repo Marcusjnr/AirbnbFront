@@ -1,0 +1,20 @@
+{
+  "name": "airbnbfront",
+  "version": "1.0.0",
+  "description": "Airbnb chart frontend",
+  "author": "Okocha Ebube",
+  "private": true,
+  "scripts": {
+    "dev": "nuxt",
+    "build": "nuxt build",
+    "start": "nuxt start",
+    "generate": "nuxt generate"
+  },
+  "dependencies": {
+    "axios": "^0.19.0",
+    "nuxt": "^2.0.0",
+    "split.js": "^1.5.11",
+    "vue-split-panel": "^1.0.4"
+  },
+  "devDependencies": {}
+}
